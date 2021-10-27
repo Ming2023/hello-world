@@ -1,2 +1,5 @@
 # hello-world
-just a new  repository
+
+Hi humans!
+this is a new user,I hope to learn with you here and improve myself!
+
